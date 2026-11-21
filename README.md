@@ -1,5 +1,7 @@
 # Advent of Code 2025
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/redbasecap)
+
 Solving Advent of Code 2025 in **Python**, **Rust**, and **Julia** for consistent multi-language verification.
 
 ## Progress
